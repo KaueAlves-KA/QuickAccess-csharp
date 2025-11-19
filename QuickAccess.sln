@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickAccess", "QuickAccess.csproj", "{FEE4C5B5-7DC7-4405-9EAC-42C98A7730E6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QuickAccess", "..\@Setups\QuickAccess\QuickAccess.vdproj", "{7ED00643-044E-41A7-B304-1E893172E1A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE4C5B5-7DC7-4405-9EAC-42C98A7730E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE4C5B5-7DC7-4405-9EAC-42C98A7730E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE4C5B5-7DC7-4405-9EAC-42C98A7730E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE4C5B5-7DC7-4405-9EAC-42C98A7730E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED00643-044E-41A7-B304-1E893172E1A6}.Debug|Any CPU.ActiveCfg = Debug
+		{7ED00643-044E-41A7-B304-1E893172E1A6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAE3DA73-6625-47C5-8ECD-1DC923CBBA66}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+
+# User files and cache
+*.suo
+*.user
+.vs/
+
+# NuGet packages (if using the old package structure)
+packages/
+
+# Temporary files
+*.pdb
+*.log
