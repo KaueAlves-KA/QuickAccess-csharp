@@ -3,6 +3,8 @@
 A simple project written in C# and Windows Forms 
 with the goal of speeding up access to frequently used applications, websites, and folders on a home computer.
 
+![QuickAccess app](Images/QuickAccess.png)
+
 ## How to compile
 Requires: Visual Studio (recent) and .NET Framework 4.7.2
 1. Clone this repository.
